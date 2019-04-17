@@ -1,0 +1,10 @@
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.辅助弟弟学习.resources
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\弟弟学习器.csproj.GenerateResource.cache
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\弟弟学习器.csproj.CoreCompileInputs.cache
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\caoyu\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\弟弟学习器.csprojAssemblyReference.cache
